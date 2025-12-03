@@ -1,5 +1,9 @@
 # Sistema Reativo de Tempo Real com Gerenciamento Dinâmico de Carga
 
+**Projeto final**: Sistemas de Tempo Real
+
+---
+
 ## 📋 Sumário
 
 - [Visão Geral](#-visão-geral)
