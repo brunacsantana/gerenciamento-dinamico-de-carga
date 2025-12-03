@@ -1,4 +1,4 @@
-# Documentação Técnica do Sistema
+# Documentação Técnica
 
 **Sistema Reativo de Tempo Real com Gerenciamento Dinâmico de Carga**
 
