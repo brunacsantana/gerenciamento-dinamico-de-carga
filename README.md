@@ -1,7 +1,5 @@
 # Sistema Reativo de Tempo Real com Gerenciamento Dinâmico de Carga
 
-**Projeto Final:** Sistema Embarcado ESP32 com FreeRTOS
-
 ---
 
 ## 📋 Sumário
