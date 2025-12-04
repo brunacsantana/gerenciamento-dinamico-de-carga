@@ -56,7 +56,7 @@ void burnCPU(int ms)
 {
     unsigned long end = millis() + ms;
     while (millis() < end)
-        _asm_("nop");
+        __asm__("nop");
 }
 
 /**
